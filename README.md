@@ -1,2 +1,2 @@
 # Personal_Site
-This is my First HTML(only) Personal Site
+This is my First Personal Site
