@@ -2,6 +2,7 @@
 
 Link to the site : https://aryanpachouri.github.io/Personal_Site/
 
+Hi There!!
 Certainly! Creating a good GitHub repository description is important to convey the purpose and features of your project. Here's an example description for your first personal site using HTML and a bit of CSS:
 
 ---
